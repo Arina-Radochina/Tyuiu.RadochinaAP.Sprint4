@@ -38,6 +38,7 @@ namespace Tyuiu.RadochinaAP.Sprint4.Task0.V9
             int result = ds.GetSumEvenArrEl(numsArray);
             Console.Write(result + "\t");
 
+
             Console.WriteLine();
             Console.ReadKey();
 
