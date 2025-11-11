@@ -12,7 +12,7 @@ namespace Tyuiu.RadochinaAP.Sprint4.Task6.V10
             Console.WriteLine("* Спринт #4                                                                                                                      *");
             Console.WriteLine("* Тема: Двумерные массивы (генератор случайных чисел)                                                                                            *");
             Console.WriteLine("* Задание #6                                                                                                                     *");
-            Console.WriteLine("* Вариант #6                                                                                                                     *");
+            Console.WriteLine("* Вариант #10                                                                                                                     *");
             Console.WriteLine("* Выполнила: Радочина Арина Павловна | ПИНб-25-1                                                                                 *");
             Console.WriteLine("**********************************************************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                                                       *");
